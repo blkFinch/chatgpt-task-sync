@@ -1,0 +1,8 @@
+# Keep secrets local
+.env
+*.env
+# Optional: VS Code, Python, macOS, etc.
+.vscode/
+__pycache__/
+*.py[cod]
+.DS_Store
